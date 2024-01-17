@@ -1,0 +1,36 @@
+
+
+
+.login__section h1{
+text-align: center;
+}
+.login__form{
+    
+    border:1px solid gray;
+    border-radius: 2px;
+    /* background-color:rgba(211, 211, 211, 0.39); */
+    background: linear-gradient(135deg,pink 60%, cyan);
+    width: 350px;
+   padding: 5px;
+    border-radius: 3px;
+    height: 350px;
+    margin-left: 10px;
+    margin:auto
+}
+
+.login__form input{
+    width: 97%;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    padding:10px 7px;
+    margin: 5px 0;
+}
+.login__form input.submit__btn{
+   
+    font-size: 19px;
+    margin-top: 50px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    
+}
+
